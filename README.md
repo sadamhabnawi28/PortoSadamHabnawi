@@ -17,9 +17,7 @@ B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 202
 - Participated in a geoelectrical exploration project to identify new potential hot spring sources in Subang, West Java
 - Collaborated with the research team and ministry staff in preparing and installing the geoelectrical instrument
 - Collected GPS coordinate data of each electrode to map the cable layout path of the geoelectrical survey line
-- Conducted geoelectrical data acquisition and processing using the resistivity method with field instrument and analytical
-software
-
+- Conducted geoelectrical data acquisition and processing using the resistivity method with field instrument and analytical software
 
 ## Portfolio Projects
 ### Data Warehousing with PostgreSQL
@@ -42,11 +40,11 @@ software
 - **Finalist in Physics at National Olympiad in Mathematics and Natural Science (_May 2024_)**
 
 ## Certifications
-**IC3 GS6 Level 1 (_Sep 2025_)**
-**The Proficiency Test of English to Speakers of Other Languages (PTESOL) (_Jul 2025_)**
-**Celerates Acceleration Program - Data Science Basics (_Jun 2024_)**
+- **IC3 GS6 Level 1 (_Sep 2025_)**
+- **The Proficiency Test of English to Speakers of Other Languages (PTESOL) (_Jul 2025_)**
+- **Celerates Acceleration Program - Data Science Basics (_Jun 2024_)**
 
 ### Languages
-**Indonesian (Native)**
-**English (Professional Working Proficiency)**
+- **Indonesian (Native)**
+- **English (Professional Working Proficiency)**
 
