@@ -1,32 +1,52 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: MS. Excel, Python, SQL, TensorFlow, Tableau
+#### SoftSkills : Problem Solving, Critical & Analytical Thinking, Communication, Detail Oriented, Teamwork
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education			        		
+B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 2025_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Analyst Intern at Ministry of Maritime Affairs and Fisheries (KKP) (_Nov 2025 - May 2026_)**
+- Collected, processed, and analyzed data on ministry’s vocational students internship activities to identify and evaluate the suitability of internship locations.
+- Developed and implemented an internship activity journal for ministry’s vocational students with an automatic weekly reporting system to increase the efficiency of the performance evaluation process.
+- Compiled analysis results documents to support decision making
+- Involved in the discussions regarding the ministry's priority programs
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Outsourcing Research Assistant at Ministry of Energy and Mineral Resources (ESDM) (_Sep 2025 - Nov 2025_)**
+- Participated in a geoelectrical exploration project to identify new potential hot spring sources in Subang, West Java
+- Collaborated with the research team and ministry staff in preparing and installing the geoelectrical instrument
+- Collected GPS coordinate data of each electrode to map the cable layout path of the geoelectrical survey line
+- Conducted geoelectrical data acquisition and processing using the resistivity method with field instrument and analytical
+software
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## Portfolio Projects
+### Data Warehousing with PostgreSQL
+- Designed a modern data warehouse using Medallion Architecture: Bronze, Silver, and Gold layer
+- Conducting an ETL process (Extracting, transforming, and loading) data from source systems into the warehouse
+- Developing fact and dimension tables optimized for analytical queries
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Building Deep Learning Model for Gravitational Waves Data With **Python**
+- Analyzed and processed raw gravitational waves time series data both in time and frequency domain to extract meaningful features.
+- Developed and trained Convolutional Neural Network (CNN) using simulated waveform signals for analyzing gravitational wave time series data
+- Implemented the CNN model on the real gravitational waves data to estimate the key physical parameters with more than 80% accuracy.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
+
+## Achievments
+**Bronze Medalist at International Youth Physics Olympiad (_Sep 2024_)**
+**Silver Medalist in Physics at National Science Competition (_Jun 2024_)**
+**Finalist in Physics at National Olympiad in Mathematics and Natural Science (_May 2024_)**
+
+##Certifications
+**IC3 GS6 Level 1 (_Sep 2025_)**
+**The Proficiency Test of English to Speakers of Other Languages (PTESOL) (_Jul 2025_)**
+**Celerates Acceleration Program - Data Science Basics (_Jun 2024_)**
+
+###Languages
+**Indonesian (Native)**
+**English (Professional Working Proficiency)**
+
