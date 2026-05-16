@@ -37,16 +37,16 @@ software
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Achievments
-**Bronze Medalist at International Youth Physics Olympiad (_Sep 2024_)**
-**Silver Medalist in Physics at National Science Competition (_Jun 2024_)**
-**Finalist in Physics at National Olympiad in Mathematics and Natural Science (_May 2024_)**
+- **Bronze Medalist at International Youth Physics Olympiad (_Sep 2024_)**
+- **Silver Medalist in Physics at National Science Competition (_Jun 2024_)**
+- **Finalist in Physics at National Olympiad in Mathematics and Natural Science (_May 2024_)**
 
-##Certifications
+## Certifications
 **IC3 GS6 Level 1 (_Sep 2025_)**
 **The Proficiency Test of English to Speakers of Other Languages (PTESOL) (_Jul 2025_)**
 **Celerates Acceleration Program - Data Science Basics (_Jun 2024_)**
 
-###Languages
+### Languages
 **Indonesian (Native)**
 **English (Professional Working Proficiency)**
 
