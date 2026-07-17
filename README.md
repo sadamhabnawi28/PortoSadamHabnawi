@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: MS. Excel, Python, SQL, TensorFlow, Tableau
+#### Technical Skills: MS. Excel, Python, SQL, TensorFlow, Tableau, Power BI
 #### SoftSkills : Problem Solving, Critical & Analytical Thinking, Communication, Detail Oriented, Teamwork
 
 ## Education			        		
@@ -9,9 +9,9 @@ B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 202
 ## Work Experience
 **Data Analyst Intern at Ministry of Maritime Affairs and Fisheries (KKP) (_Nov 2025 - May 2026_)**
 - Collected, processed, and analyzed data on ministry’s vocational students internship activities to identify and evaluate the suitability of internship locations.
-- Developed and implemented an internship activity journal for ministry’s vocational students with an automatic weekly reporting system to increase the efficiency of the performance evaluation process.
-- Compiled analysis results documents to support decision making
-- Involved in the discussions regarding the ministry's priority programs
+- Developed and implemented an internship activity journal for ministry’s vocational students with an automatic weekly reporting system, increasing the efficiency of the performance evaluation process by 75%.
+- Compiled analysis results documents to support decision making.
+- Involved in the discussions regarding the ministry's priority programs.
 
 **Outsourcing Research Assistant at Ministry of Energy and Mineral Resources (ESDM) (_Sep 2025 - Nov 2025_)**
 - Participated in a geoelectrical exploration project to identify new potential hot spring sources in Subang, West Java
@@ -40,8 +40,12 @@ B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 202
 - **Finalist in Physics at National Olympiad in Mathematics and Natural Science (_May 2024_)**
 
 ## Certifications
-- **IC3 GS6 Level 1 (_Sep 2025_)**
-- **The Proficiency Test of English to Speakers of Other Languages (PTESOL) (_Jul 2025_)**
+- **Udemy - The Complete SQL Masterclass (_Jun 2026_)**
+- **Udemy - Complete Microsoft Power BI Bootcamp (_Jun 2026_)**
+- **Pijar Academy - Full Stack Data Analyst Acceleration Class (_Jun 2026_)**
+- **Dicoding - Memulai Pemrograman dengan Python (_Jun 2026_)**
+- **Dicoding - Belajar Dasar AI (_Jun 2026_)**
+- **Dicoding - Belajar Machine Learning Untuk Pemula (_Jun 2026_)**
 - **Celerates Acceleration Program - Data Science Basics (_Jun 2024_)**
 
 ### Languages
