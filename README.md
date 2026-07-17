@@ -1,7 +1,7 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, TensorFlow, Tableau, Power BI, MS.Excel
-#### SoftSkills : Problem Solving, Critical & Analytical Thinking, Communication, Detail Oriented, Teamwork
+#### Soft Skills : Problem Solving, Critical & Analytical Thinking, Communication, Detail Oriented, Teamwork
 
 ## Education			        		
 B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 2025_)
