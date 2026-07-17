@@ -1,4 +1,4 @@
-# Data Scientist
+# Portfolio
 
 #### Technical Skills: Python, SQL, TensorFlow, Tableau, Power BI, MS.Excel
 #### Soft Skills : Problem Solving, Critical & Analytical Thinking, Communication, Detail Oriented, Teamwork
