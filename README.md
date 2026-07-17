@@ -58,3 +58,4 @@
 - **Indonesian (Native)**
 - **English (Professional Working Proficiency)**
 
+<center>© 2026 Sadam Habnawi. Powered by Jekyll and the Minimal Theme.</center>
