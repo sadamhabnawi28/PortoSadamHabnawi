@@ -1,11 +1,16 @@
 # Portfolio
 
-#### Technical Skills: Python, SQL, TensorFlow, Tableau, Power BI, MS.Excel
+#### Technical Skills: Python, Numpy, Pandas, Scipy, Scikit-Learn, TensorFlow, PostgreSQL, Tableau, Power BI, MS.Excel
 #### Soft Skills : Problem Solving, Critical & Analytical Thinking, Communication, Detail Oriented, Teamwork
 
 ## Education			        		
 ### **B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 2025_)**
-#### Relevant Courses: Statistics, Statistical Physics, Mathematical Physics I & II (Calculus, Linear Algebra, Differential Equations, Probability Theory),  Alghoritm and Programming, Research Methodology and Scientific Publication.
+#### Relevant Courses: 
+- Statistics
+- Statistical Physics
+- Mathematical Physics I & II (Calculus, Linear Algebra, Differential Equations, Probability Theory)
+- Alghoritm and Programming
+- Research Methodology and Scientific Publication.
 
 ## Work Experience
 **Data Analyst Intern at Ministry of Maritime Affairs and Fisheries (KKP) (_Nov 2025 - May 2026_)**
