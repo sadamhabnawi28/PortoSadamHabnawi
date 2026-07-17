@@ -1,10 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: MS. Excel, Python, SQL, TensorFlow, Tableau, Power BI
+#### Technical Skills: Python, SQL, TensorFlow, Tableau, Power BI, MS.Excel
 #### SoftSkills : Problem Solving, Critical & Analytical Thinking, Communication, Detail Oriented, Teamwork
 
 ## Education			        		
 B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 2025_)
+### relevant courses: Statistics, Statistical Physics, Mathematical Physics I & II (Linear Algebra, Diffrential Equations, Probability Theory), Research Methodology and Scientific Publication.
 
 ## Work Experience
 **Data Analyst Intern at Ministry of Maritime Affairs and Fisheries (KKP) (_Nov 2025 - May 2026_)**
