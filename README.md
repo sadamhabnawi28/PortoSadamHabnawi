@@ -4,7 +4,7 @@
 #### Soft Skills : Problem Solving, Critical & Analytical Thinking, Communication, Detail Oriented, Teamwork
 
 ## Education			        		
-B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 2025_)
+### **B.S., Physics | Universitas Pendidikan Indonesia at Bandung (_Sep 2021 - Aug 2025_)**
 #### Relevant Courses: Statistics, Statistical Physics, Mathematical Physics I & II (Calculus, Linear Algebra, Differential Equations, Probability Theory),  Alghoritm and Programming, Research Methodology and Scientific Publication.
 
 ## Work Experience
