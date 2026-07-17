@@ -1,5 +1,6 @@
 title: <p align="center"> Sadam Habnawi </p>
-logo: images/logo.png
+
+logo: "/images/logo.png"
 
 description:
   <p align="center">
