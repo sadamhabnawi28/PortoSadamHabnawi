@@ -16,7 +16,7 @@ title: Home
 
     <!-- LEFT SIDEBAR -->
     <aside class="sidebar">
-      <img src="{{ '/images/profile.jpg' | relative_url }}"
+      <img src="{{ '/images/logo.jpg' | relative_url }}"
            alt="Profile"
            class="profile-photo">
 
