@@ -70,13 +70,18 @@ I'm continuously expanding my skills by building real-world projects and explori
 
 ---
 
-## Experience
+## Work Experience
+**Data Analyst Intern at Ministry of Maritime Affairs and Fisheries (KKP) (_Nov 2025 - May 2026_)**
+- Collected, processed, and analyzed data on ministry’s vocational students internship activities to identify and evaluate the suitability of internship locations.
+- Developed and implemented an internship activity journal for ministry’s vocational students with an automatic weekly reporting system, increasing the efficiency of the performance evaluation process by 75%.
+- Compiled analysis results documents to support decision making.
+- Involved in the discussions regarding the ministry's priority programs.
 
-### Data Analyst Intern — Kementerian Kelautan dan Perikanan
-
-- Mengolah dan membersihkan data operasional.
-- Membuat dashboard visualisasi dan laporan berkala.
-- Mendukung pengambilan keputusan berbasis data.
+**Outsourcing Research Assistant at Ministry of Energy and Mineral Resources (ESDM) (_Sep 2025 - Nov 2025_)**
+- Participated in a geoelectrical exploration project to identify new potential hot spring sources in Subang, West Java
+- Collaborated with the research team and ministry staff in preparing and installing the geoelectrical instrument
+- Collected GPS coordinate data of each electrode to map the cable layout path of the geoelectrical survey line
+- Conducted geoelectrical data acquisition and processing using the resistivity method with field instrument and analytical software
 
 ---
 
