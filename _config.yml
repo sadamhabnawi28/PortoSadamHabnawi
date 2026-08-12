@@ -1,19 +1,14 @@
-title: <p align="center"> Sadam Habnawi </p>
+title: Sadam Habnawi Portfolio
+description: Data Analyst | Deep Learning | Astrophysics
 
-logo: "/images/logo.png"
+theme: minima
 
-description:
-  <p align="center">
-  <a href="pdf/CV_Sadam Habnawi.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/sadam-habnawi-7621011b4/">LinkedIn</a> |
-  <a href="https://github.com/sadamhabnawi28">GitHub</a>
-  </p>
-  
-  <p align="justify">
-  I am a Physics freshgraduate from Universitas Pendidikan Indonesia focusing on astrophysics who always seeks to expand experience and knowledge.
-  <br><br>
-  I have a great enthusiasm in data science and analysis for business applications.
-  <br><br>
-  </p>
-  
-theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+header_pages: []
