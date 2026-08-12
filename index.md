@@ -27,7 +27,8 @@ title: Home
 - [Contact](#contact)
 
 </aside>
-
+<img src="{{ '/images/logo.png' | relative_url }}"
+     style="width:100%; border-radius:20px; margin-bottom:2rem;">
 <main class="main-content">
 
 ## About
