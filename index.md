@@ -7,122 +7,18 @@ title: Home
 
 <div class="wrapper">
 
-  <div class="hero-card">
-    <h1>Sadam Habnawi Portfolio</h1>
-    <p>Data Analyst • Deep Learning • Astrophysics • Data Warehouse</p>
-  </div>
+  {% include hero.html %}
 
   <div class="layout">
 
-    <!-- LEFT SIDEBAR -->
-    <aside class="sidebar">
-      <img src="{{ '/images/logo.png' | relative_url }}"
-           alt="Profile"
-           class="profile-photo">
+    {% include sidebar.html %}
 
-      <h2>Sadam Habnawi</h2>
-      <div class="role">Physics Graduate & Data Analyst</div>
-
-      <div class="social-links">
-        <a href="https://github.com/sadamhabnawi28">GitHub</a> |
-        <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> |
-        <a href="mailto:your-email@example.com">Email</a>
-      </div>
-
-      <p style="text-align:left; color:#475569;">
-        Interested in <strong>Data Analytics</strong>,
-        <strong>Machine Learning</strong>,
-        <strong>Astrophysics</strong>, and
-        <strong>Data Engineering</strong>.
-      </p>
-
-      <div class="toc">
-        <h3>Navigation</h3>
-        <ul>
-          <li><a href="#about">About</a></li>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </div>
-    </aside>
-
-    <!-- RIGHT CONTENT -->
     <main class="content">
-
-      <section id="about" class="content-card">
-        <h2>About Me</h2>
-        <p>
-          I am a Physics graduate with hands-on experience in data analysis,
-          visualization, and machine learning projects. My work combines scientific
-          computing with business-oriented analytics using Python, SQL, Power BI,
-          PostgreSQL, and TensorFlow.
-        </p>
-      </section>
-
-      <section id="projects" class="content-card">
-        <h2>Featured Projects</h2>
-
-        <div class="project-card">
-          <h3>🌌 Gravitational Wave with Deep Learning</h3>
-
-          <img src="{{ '/images/gwdl.png' | relative_url }}"
-               alt="Gravitational Wave Project">
-
-          <p>
-            CNN-based deep learning pipeline for analyzing <strong>LIGO gravitational-wave signals</strong>
-            using spectrogram representations, frequency analysis, and model evaluation metrics.
-          </p>
-
-          <span class="tag">Python</span>
-          <span class="tag">TensorFlow</span>
-          <span class="tag">LIGO</span>
-          <span class="tag">Deep Learning</span>
-
-          <br>
-          <a class="btn"
-             href="https://sadamhabnawi28.github.io/GravitationalWave_DeepLearning_project/">
-             View Project
-          </a>
-        </div>
-
-        <div class="project-card">
-          <h3>📊 Sales Dashboard Analytics</h3>
-
-          <img src="{{ '/images/dashboard.png' | relative_url }}"
-               alt="Sales Dashboard">
-
-          <p>
-            Interactive business intelligence dashboard for monitoring sales performance,
-            profitability, customer segmentation, and monthly KPI trends.
-          </p>
-
-          <span class="tag">Power BI</span>
-          <span class="tag">DAX</span>
-          <span class="tag">Data Visualization</span>
-        </div>
-      </section>
-
-      <section id="skills" class="content-card">
-        <h2>Technical Skills</h2>
-
-        <ul>
-          <li><strong>Python</strong> (Pandas, NumPy, Scikit-learn, TensorFlow)</li>
-          <li><strong>SQL & PostgreSQL</strong></li>
-          <li><strong>Power BI & Tableau</strong></li>
-          <li><strong>Data Warehouse & ETL</strong></li>
-          <li><strong>Machine Learning & Deep Learning</strong></li>
-        </ul>
-      </section>
-
-      <section id="contact" class="content-card">
-        <h2>Contact</h2>
-
-        <p><strong>GitHub:</strong> https://github.com/sadamhabnawi28</p>
-        <p><strong>LinkedIn:</strong> https://linkedin.com/in/your-linkedin</p>
-        <p><strong>Email:</strong> your-email@example.com</p>
-      </section>
-
+      {% include about.html %}
+      {% include projects.html %}
+      {% include skills.html %}
+      {% include contact.html %}
     </main>
+
   </div>
 </div>
