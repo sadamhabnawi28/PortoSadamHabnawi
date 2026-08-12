@@ -31,7 +31,8 @@ body {
   font-size: clamp(2.2rem, 5vw, 4rem);
   color: #2563eb;
   margin-bottom: 0.5rem;
-  font-weight: 800;
+  font-weight: 600;   /* lebih ringan */
+  letter-spacing: -1px;
 }
 
 .hero-card p {
@@ -64,7 +65,8 @@ body {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
-  border: 5px solid #e5edff;
+  border: none;                 
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
 .sidebar h2 {
