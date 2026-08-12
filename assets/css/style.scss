@@ -1,4 +1,215 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "minima";
+
+/* ===== GLOBAL ===== */
+body {
+  background: #f3f4f6;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #111827;
+  line-height: 1.7;
+}
+
+.wrapper {
+  max-width: 1350px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* ===== HERO ===== */
+.hero-card {
+  background: white;
+  border-radius: 24px;
+  padding: 3rem 2rem;
+  text-align: center;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+  margin-bottom: 2rem;
+}
+
+.hero-card h1 {
+  font-size: clamp(2.2rem, 5vw, 4rem);
+  color: #2563eb;
+  margin-bottom: 0.5rem;
+  font-weight: 800;
+}
+
+.hero-card p {
+  color: #64748b;
+  font-size: 1.15rem;
+}
+
+/* ===== MAIN LAYOUT ===== */
+.layout {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 2rem;
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+  background: white;
+  border-radius: 24px;
+  padding: 2rem;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+  position: sticky;
+  top: 20px;
+  height: fit-content;
+  text-align: center;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 5px solid #e5edff;
+}
+
+.sidebar h2 {
+  margin: 0.5rem 0 0.25rem;
+  color: #2563eb;
+  font-size: 1.8rem;
+}
+
+.sidebar .role {
+  color: #64748b;
+  margin-bottom: 1.5rem;
+}
+
+.social-links {
+  margin-bottom: 2rem;
+}
+
+.social-links a {
+  color: #2563eb;
+  text-decoration: none;
+  margin: 0 0.4rem;
+  font-weight: 600;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
+
+.toc {
+  text-align: left;
+  margin-top: 2rem;
+}
+
+.toc h3 {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  color: #0f172a;
+}
+
+.toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc li {
+  margin-bottom: 0.8rem;
+}
+
+.toc a {
+  color: #334155;
+  text-decoration: none;
+}
+
+.toc a:hover {
+  color: #2563eb;
+}
+
+/* ===== CONTENT ===== */
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.content-card {
+  background: white;
+  border-radius: 24px;
+  padding: 2.5rem;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+}
+
+.content-card h2 {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #0f172a;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 0.75rem;
+}
+
+.content-card img {
+  width: 100%;
+  border-radius: 18px;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.content-card p {
+  color: #374151;
+}
+
+/* ===== PROJECT CARD ===== */
+.project-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(37,99,235,0.08);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #2563eb;
+}
+
+.tag {
+  display: inline-block;
+  background: #dbeafe;
+  color: #1d4ed8;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-right: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.btn {
+  display: inline-block;
+  background: #2563eb;
+  color: white;
+  padding: 0.7rem 1.2rem;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+
+.btn:hover {
+  background: #1d4ed8;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 950px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+  }
+}
